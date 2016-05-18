@@ -1,3 +1,7 @@
 bhaskar
 vissu
+<<<<<<< HEAD
 hanu
+=======
+hai
+>>>>>>> b2
