@@ -1,4 +1,12 @@
 bhaskar
 vissu
+<<<<<<< HEAD
+hanu
+=======
 hai
+<<<<<<< HEAD
 vignan1
+=======
+>>>>>>> b2
+vignan
+>>>>>>> master
